@@ -1,0 +1,9 @@
+.signUpContainer {
+    background-color: #61DAFB;
+}
+
+@media (min-width: 768px) {
+    .news-input {
+      width: 50%;
+    }
+  }
