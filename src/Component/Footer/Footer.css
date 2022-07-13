@@ -1,0 +1,22 @@
+.footerSvgOne {
+    position: absolute;
+    top: auto;
+    left: 3rem;
+    width: 15rem;
+    z-index: 1;
+  }
+  .footerSvgTwo {
+    position: absolute;
+    top: auto;
+    right: 0;
+    width: 15rem;
+    z-index: 1;
+  }
+
+.spanHead {
+    color: #61DAFB;
+}
+
+h3 {
+    color: #61DAFB;
+}

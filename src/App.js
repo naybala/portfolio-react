@@ -7,6 +7,7 @@ import Document from "./Component/Document/Document";
 import Tutorial from "./Component/Tutorial/Tuotrial";
 import Blog  from "./Component/Blog/Blog";
 import Community from "./Component/Community/Community";
+import Footer from "./Component/Footer/Footer";
 import "./App.css"
 function App() {
   return (
@@ -19,6 +20,7 @@ function App() {
       <ScrollTop/>
       <Blog/>
       <Community/>
+      <Footer/>
     </div>
   );
 }
