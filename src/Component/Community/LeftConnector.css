@@ -1,0 +1,10 @@
+.left-connector {
+    width: 250px;
+    height: 20px;
+    background-color: #61DAFB;
+    border-radius: 1rem;
+    position: absolute;
+    left: 350px;
+    top: 30px;
+    transform: rotate(17deg);
+}

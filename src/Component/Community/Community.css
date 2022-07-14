@@ -1,0 +1,7 @@
+.community-container {
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+    position: relative;
+    display: flex;
+}
+
