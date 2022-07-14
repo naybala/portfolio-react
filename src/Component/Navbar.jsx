@@ -35,6 +35,12 @@ function Navbar() {
   });
 
 
+  const clickNav = () => {
+    const removeNav = document.querySelector('.collapse');
+    removeNav.classList.remove("show");
+  }
+
+
 
   return (
     <>
@@ -55,7 +61,7 @@ function Navbar() {
           </button>
 
           <div className="collapse navbar-collapse" id="navmenu">
-            <ul className="navbar-nav ms-auto">
+            <ul className="navbar-nav ms-auto" onClick={clickNav}>
               <li className="nav-item">
                 <a href="#document" className="nav-link">Document</a>
               </li>
