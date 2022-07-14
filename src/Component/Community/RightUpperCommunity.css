@@ -34,3 +34,10 @@
     height: 132px;
     transition: all  0.3s;
 }
+
+@media (max-width:1399px) and (min-width:1200px){
+    .right-upper-container {
+       
+        top: -180px;
+    }
+}

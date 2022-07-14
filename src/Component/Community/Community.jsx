@@ -12,7 +12,7 @@ function Community() {
         <section id="community">
             <div className="text-center">
                 <br /><br /><br /><br />
-                <h1>Community Of React</h1>
+                <h1>Community For React</h1>
                 <br /><br /><br /><br />
                 <br /><br />
                 <div className="card border-0 shadow-lg p-5">
@@ -26,6 +26,7 @@ function Community() {
                             <RightConnector />
                             <RightDownConnector />
                         </div>
+                        <br />
                         <h1>React Community</h1>
                     </div>
                 </div>

@@ -8,3 +8,13 @@
     top: 165px;
     transform: rotate(30deg);
 }
+
+@media (max-width:1399px) and (min-width:1235px){
+    .right-down-connector {
+        width: 210px;
+        height: 30px;
+        right: 323px;
+        top: 175px;
+        transform: rotate(38deg);
+    }
+}

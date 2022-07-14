@@ -21,7 +21,7 @@ function ShowCase() {
                                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic, neque. Lorem
                                 ipsum dolor sit amet consectetur adipisicing elit. Facere, maiores.
                             </p>
-                            <a href="#learn">
+                            <a href="#document">
                                 <button
                                     className="btn btn-dark btn-lg border-0"
 

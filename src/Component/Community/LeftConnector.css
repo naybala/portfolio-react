@@ -8,3 +8,9 @@
     top: 30px;
     transform: rotate(13deg);
 }
+@media (max-width:1399px) and (min-width:1200px){
+    .left-connector {
+        width: 150px;
+        transform: rotate(18deg);
+    }
+}
