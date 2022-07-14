@@ -6,7 +6,7 @@ function SignUp() {
             <section className="signUpContainer text-light p-5">
                 <div className="container">
                     <div className="d-md-flex justify-content-between align-items-center">
-                        <h3 className="mb-3 mb-md-0">Sign Up For Our Newsletter</h3>
+                        <h2 className="mb-3 mb-md-0 text-white">Sign Up For Our Newsletter</h2>
 
                         <div className="input-group news-input">
                             <input type="text" className="form-control" placeholder="Enter Email" />

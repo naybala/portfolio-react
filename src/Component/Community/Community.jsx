@@ -7,16 +7,20 @@ import RightUpperCommunity from "./RightUpperCommunity";
 import RightCommunity from "./RightCommunity";
 import RightConnector from "./RightConnector";
 import RightDownConnector from "./RightDownConnector";
+import Img1 from "./../../asset/images/React-Best-Practices-and-Security.jpg"
 function Community() {
     return (
         <section id="community">
             <div className="text-center">
                 <br /><br /><br /><br />
                 <h1>Community For React</h1>
-                <br /><br /><br /><br />
                 <br /><br />
-                <div className="card border-0 shadow-lg p-5">
+                <div className="card border-0 shadow-lg">
                     <div className="container">
+                        <br /><br />
+                        <img src={Img1} alt="" className="community-img" />
+                        <br /><br /><br />
+                        <br />
                         <div className="community-container">
                             <LeftCommunity />
                             <MidCommunity />
@@ -28,9 +32,10 @@ function Community() {
                         </div>
                         <br />
                         <h1>React Community</h1>
+                        <br /><br />
                     </div>
                 </div>
-                <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+
             </div>
         </section>
     )
