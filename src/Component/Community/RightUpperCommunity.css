@@ -7,6 +7,8 @@
     top: -220px;
     right: 250px;
     display: flex;
+    transition: all  0.3s;
+    cursor: pointer;
 }
 
 .right-upper-mid-container {
@@ -25,4 +27,10 @@
     border-radius: 4rem;
     align-items: center;
     margin: auto;
+}
+
+.right-upper-container:hover {
+    width: 132px;
+    height: 132px;
+    transition: all  0.3s;
 }

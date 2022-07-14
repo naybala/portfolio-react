@@ -9,7 +9,7 @@ function BlogImage() {
                     <img src={Img1} alt="" className="image" />
                     <div className="overlay">
                         <div className="text">
-                            <a href="https://www.w3schools.com/css/tryit.asp?filename=trycss_css_image_overlay_slidetop" className="text-white text-decoration-none" target="__blink">visit here</a>
+                            <a href="https://www.w3schools.com/css/tryit.asp?filename=trycss_css_image_overlay_slidetop" className="text-white text-decoration-none" target="__blink"> &nbsp;visit here&nbsp; </a>
                         </div>
                     </div>
                 </div>
@@ -17,7 +17,7 @@ function BlogImage() {
                     <img src={Img2} alt="" className="image" />
                     <div className="overlay">
                         <div className="text">
-                            <a href="https://www.w3schools.com/css/tryit.asp?filename=trycss_css_image_overlay_slidetop" className="text-white text-decoration-none" target="__blink">visit here</a>
+                            <a href="https://www.w3schools.com/css/tryit.asp?filename=trycss_css_image_overlay_slidetop" className="text-white text-decoration-none" target="__blink">&nbsp;visit here&nbsp;</a>
                         </div>
                     </div>
                 </div>

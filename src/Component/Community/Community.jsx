@@ -13,7 +13,7 @@ function Community() {
             <div className="text-center">
                 <br /><br /><br /><br />
                 <h1>Community Of React</h1>
-                <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+                <br /><br /><br /><br />
                 <br /><br />
                 <div className="card border-0 shadow-lg p-5">
                     <div className="container">
