@@ -1,0 +1,28 @@
+.mid-container {
+    width: 150px;
+    height: 150px;
+    background-color: #61DAFB;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 5rem;
+    display: flex;
+}
+.center-container{
+    width: 100px;
+    height: 100px;
+    background-color: aliceblue;
+    margin: auto;
+    border-radius: 4rem;
+    align-items: center;
+    display: flex;
+}
+
+.mid-center-container {
+    width: 60px;
+    height: 60px;
+    background-color: #61DAFB;
+    border-radius: 4rem;
+    align-items: center;
+    margin: auto;
+}
+
