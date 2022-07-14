@@ -1,0 +1,10 @@
+.right-down-connector {
+    width: 295px;
+    height: 30px;
+    background-color: #61DAFB;
+    border-radius: 1rem;
+    position: absolute;
+    right: 323px;
+    top: 165px;
+    transform: rotate(30deg);
+}
