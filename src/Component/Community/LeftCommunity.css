@@ -7,6 +7,9 @@
     top: -60px;
     left: 250px;
     display: flex;
+    transition: all  0.3s;
+    cursor: pointer;
+    
 }
 
 .left-upper-mid-container {
@@ -25,4 +28,10 @@
     border-radius: 4rem;
     align-items: center;
     margin: auto;
+}
+
+.left-upper-container:hover {
+    width: 130px;
+    height: 130px;
+    transition: all  0.3s;
 }
