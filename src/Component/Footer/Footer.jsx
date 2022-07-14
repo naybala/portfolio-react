@@ -5,6 +5,7 @@ import "./Footer.css"
 function Footer() {
     return (
         <footer className="p-4 text-center position-relative footer bg-light">
+            <br /><br />
             <p className="lead">Copyright &copy; 2022</p>
             <section className="p-5">
                 <div className="container">

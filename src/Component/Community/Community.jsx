@@ -31,7 +31,7 @@ function Community() {
                             <RightDownConnector />
                         </div>
                         <br />
-                        <h1>React Community</h1>
+                        <h1 className="text-decoration-none">React Community</h1>
                         <br /><br />
                     </div>
                 </div>

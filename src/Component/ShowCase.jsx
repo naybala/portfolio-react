@@ -16,7 +16,7 @@ function ShowCase() {
                             alt=""
                         />
                         <div>
-                            <h1><span className=""> React Org Global </span></h1>
+                            <h1 className="text-decoration-none"> React Org Global</h1>
                             <p className="lead my-4">
                                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic, neque. Lorem
                                 ipsum dolor sit amet consectetur adipisicing elit. Facere, maiores.
